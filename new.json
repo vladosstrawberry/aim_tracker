@@ -1,0 +1,33 @@
+{ "MainAim":
+    {"SubAim":
+      [ "room-number",
+        "use",
+        "sq-ft",
+        "price"
+      ],
+    "SubAim2":
+      [ "room-rwrwnumber",
+        "usrre",
+        "sq-ft11",
+        "pricrwr2e"
+      ],
+    "SubAim3":
+      [ "room-nu111mber",
+        "use44",
+        "sq-ft555",
+        "price1214"
+      ],
+    "SubAim4":
+      [ "room-number111",
+        "use111",
+        "sq-ft111",
+        "price111"
+      ],
+    "SubAim5":
+    [ "room-number666",
+      "use666",
+      "sq-ft666",
+      "price666"
+    ]
+  }
+}
